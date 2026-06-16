@@ -23,7 +23,7 @@ A Cat vs Dog image classifier built using Convolutional Neural Networks (CNN) wi
 
 ## Dataset
 
-- **Source:** [Kaggle — Dogs vs Cats](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
+- **Source:** [Kaggle — Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
 - **Size:** ~25,000 labeled images
 - **Split:** 80% train / 20% validation
 
@@ -96,6 +96,6 @@ cat-vs-dog/
 
 ## References
 
-- [Kaggle Dogs vs Cats Dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
+- [Kaggle Dogs vs Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
 - [TensorFlow Image Classification Tutorial](https://www.tensorflow.org/tutorials/images/classification)
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
