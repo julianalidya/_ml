@@ -1,11 +1,14 @@
-# Final Assignment
+# Final Assignment Portfolio
 
 **Name:** 林小蓮　**Student ID:** 111210552
 
-> **AI Tool Used:** Claude (claude.ai) — claude-sonnet-4-6
-> **How I used it:** Asking questions, understanding concepts, generating initial code, debugging
-> **My contribution:** Understanding core concepts of each assignment, testing and verifying outputs, integrating and adjusting AI-generated code
-> **Disclosure:** This work is not fully original. AI was involved in code generation. Full conversation logs are linked for reference.
+**AI Tool Used:** Claude (claude.ai) — claude-sonnet-4-6
+
+**How I used it:** Asking questions, understanding concepts, generating initial code, debugging
+
+**My contribution:** Understanding core concepts of each assignment, testing and verifying outputs, integrating and adjusting AI-generated code
+
+**Disclosure:** This work is not fully original. AI was involved in code generation. Full conversation logs are linked for reference.
 
 ---
 
